@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fábio José Lins Calheiros, I'm from Brazil, I've just finished my college in Electrical Engineering, and started my graduate course in Data Science and Big Data.
+- 👀 I’m interested in learning Python, DBA, Machine Learning, Data science.
+- 🌱 I’m currently learning python for data science
+- 📫 You can contact-me in: fabiojlc.eng@gmail.com       you can send me a message in whatsapp: +55 (82) 99812-2286    or in LinkedIn: https://www.linkedin.com/in/f%C3%A1bio-lins-3aa737179/
